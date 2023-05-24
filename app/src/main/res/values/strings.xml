@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Local Bank</string>
+    <string name="DBS">DBS</string>
+    <string name="OCBC">OCBC</string>
+    <string name="UOB">UOB</string>
+    <string name="name">SG Banking Services</string>
+</resources>
